@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/jk4at5i3s7y361di?svg=true)](https://ci.appveyor.com/project/AnastasiaCymbalyuk77753/ahj-diplom-front)
